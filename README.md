@@ -5,5 +5,5 @@ There are 3 questions. First is the company of the Car, second is color of the c
 There is a score attached to each of the question. Based on the answer of the user, the score is calculated. 
 At the end of the questionnaire, a judgemental statement is shown to the User.
 
-![GitHub Logo](/Images_Github/Screenshot_1573156362.png){width=250px} 
+![GitHub Logo](/Images_Github/Screenshot_1573156362.png){:height="50%" width="50%"}
 Format: ![Alt Text](url)
